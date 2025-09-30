@@ -1,9 +1,0 @@
-1. cài python 3.13
-2. chạy file install_requirements.py bằng lệnh python install_requirements.py trên cmd nơi chứa file
-3. cài phần mềm ffmpeg 
-https://ffmpeg.org/download.html
-4. lệnh test ffmpeg trên cmd
-gõ ffmpeg
-5. chạy file get_id_and_license_verifi.exe gửi 2 id cho admin
-admin đưa mã nhập vô ô xác minh
-6. chạy app nhấn vô main.pyz
