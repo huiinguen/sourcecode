@@ -1,3 +1,0 @@
-cài python 3.13
-và cài pip (trên cmd)
-pip install requests beautifulsoup4 Pillow ttkbootstrap
